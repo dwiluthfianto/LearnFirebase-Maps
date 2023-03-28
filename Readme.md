@@ -9,7 +9,7 @@ Aplikasi ini adalah sebuah aplikasi contoh untuk mahasiswa FTI UKSW dalam belaja
 ### Di Project Level
 1. Tambahkan Library Google di dalam _**dependencies**_
     ```javascript
-    classpath 'com.google.gms:google-services:4.3.3'
+    classpath 'com.google.gms:google-services:4.3.15'
     ```
 ### Di app Level
 1. Tambahkan plugin Google
@@ -18,7 +18,7 @@ Aplikasi ini adalah sebuah aplikasi contoh untuk mahasiswa FTI UKSW dalam belaja
     ```
 2. Tambahkan library Realtime Database milik Firebase
     ```javascript
-    implementation 'com.google.firebase:firebase-database:19.2.1'
+    implementation 'com.google.firebase:firebase-database:20.1.0'
     ```
 
 # SELAMAT MENCOBA
