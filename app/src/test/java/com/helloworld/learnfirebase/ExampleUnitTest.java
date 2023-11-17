@@ -1,4 +1,4 @@
-package com.ocsa.firebase;
+package com.helloworld.learnfirebase;
 
 import org.junit.Test;
 

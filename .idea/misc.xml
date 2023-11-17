@@ -6,6 +6,13 @@
   <component name="ProjectType">
     <option name="id" value="Android" />
   </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1377551020408163" />
+      </ProjectState>
+    </option>
+  </component>
   <component name="masterDetails">
     <states>
       <state key="ProjectJDKs.UI">
