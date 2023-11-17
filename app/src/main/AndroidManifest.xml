@@ -13,9 +13,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBwj2TprvurFlfZy0IBfqRibWXbk8jd4yA" />
+    
         <activity android:name=".MainActivity"
             android:label="@string/app_name" android:exported="true">
             <intent-filter>
